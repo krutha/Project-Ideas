@@ -2,8 +2,8 @@ notes app- never forget anything again (organize your thoughts in one palce )
 
 Movie tickets - finding  tickets for Movie / shows near me 
 
-Auction - makeing Bid on itea aswell create an Auction
+Auction - makeing Bid and also can  create an Auction
 
- tours app - Finding a trip / palce for tours in this app 
+tours app - Finding a trip / palce for tours in this app 
 
-Birthday Reminder App - easy to keep track of important things in your schedule
+Birthday Reminder App - easy to keep track of important Date in your schedule
