@@ -6,4 +6,4 @@ Auction - makeing Bid on itea aswell create an Auction
 
 Todo List - Make a list for trip/ groceries
 
-Random Password Generator- Save new passwords as you browse ,detects weak passwords.
+Birthday Reminder App - easy to keep track of important things in your schedule
