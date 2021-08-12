@@ -4,6 +4,6 @@ Movie tickets - finding  tickets for Movie / shows near me
 
 Auction - makeing Bid and also can  create an Auction
 
-tours app - Finding a trip / palce for tours in this app 
+Expense app - Tracking user Expenses with details .
 
-Birthday Reminder App - easy to keep track of important Date in your schedule
+tours app - Finding a trip / palce for tours in this app 
