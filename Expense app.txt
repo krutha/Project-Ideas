@@ -1,0 +1,10 @@
+Pitch/Idea: 
+              Creating a web application called  Expense tracking app , that allows Users to track their expenses throughout the year .
+
+
+MVP: 
+    User can enter each day expense 
+    Can track their monthly expenses    
+    User can also see by year by year, can  filter their expenses 
+    As they filter that automatically updates and show the selected  year expenses 
+    Users can also add new expenses every day with details .

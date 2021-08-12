@@ -1,0 +1,14 @@
+
+
+Pitch/Idea: 
+              Creating web application called note taking app,that allowsUsers will be able to create notes with some content.It is a relatively simple application but, going to address the following requirements. 
+
+MVP:
+
+  Allows users to signup and login to their accounts
+  Users will be able to create notes with some content
+  Each notes can be  uploaded file as an attachment 
+  Allow users to edit their uploaded notes
+  Users can also delete their notes
+  The app will be able  to process credit card payments 
+
