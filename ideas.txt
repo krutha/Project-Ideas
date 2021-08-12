@@ -1,9 +1,9 @@
 notes app- never forget anything again (organize your thoughts in one palce )
 
-Movie tickets - whre to find tickets fotr Movie
+Movie tickets - finding  tickets for Movie / shows near me 
 
-Auction - makeing Bid on itea aswell create an Auction
+Auction - makeing Bid and also can  create an Auction
 
-Todo List - Make a list for trip/ groceries
+Expense app - Tracking user Expenses with details .
 
-Find your home - posting new homes in app 
+tours app - Finding a trip / palce for tours in this app 
