@@ -10,5 +10,5 @@ MVP:
   Each notes can be  uploaded file as an attachment 
   Allow users to edit their uploaded notes
   Users can also delete their notes
-  The app will be able  to process credit card payments 
+  The app will be able  to process credit card payments  using stripe
 
