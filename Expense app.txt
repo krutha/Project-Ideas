@@ -3,8 +3,14 @@ Pitch/Idea:
 
 
 MVP: 
+user features:
     User can enter each day expense 
     Can track their monthly expenses    
-    User can alsoNavigate through  year by year or by using filter to chec their expenses 
+    User can also Navigate through  year by year or by using filter to chec their expenses 
     As they filter that automatically updates and show the selected  year expenses 
     Users can also add new expenses every day with details .
+ App features:
+    user can Navigate through each of Expenses as they needed
+    user can save their data by amount ,title, date ,year, month, day
+    user track their expences by animation bars  for selected year 
+    
