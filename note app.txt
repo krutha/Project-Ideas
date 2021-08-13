@@ -1,7 +1,7 @@
 
 
 Pitch/Idea: 
-              Creating web application called note taking app,that allowsUsers will be able to create notes with some content.It is a relatively simple application but, going to address the following requirements. 
+              Creating web application called note taking app,that  User will be able to create notes with some content.It is a relatively simple application but, going to address the following requirements. 
 
 MVP:
 
